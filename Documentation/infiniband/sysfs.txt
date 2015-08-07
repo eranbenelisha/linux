@@ -71,12 +71,10 @@ HFI1
 
    hw_rev - hardware revision
    board_id - manufacturing board id
-   version - driver version
    tempsense - thermal sense information
    serial - board serial number
    nfreectxts - number of free user contexts
    nctxts - number of allowed contexts (PSM2)
-   localbus_info - PCIe info
    chip_reset - diagnostic (root only)
    boardversion - board version
    ports/1/
